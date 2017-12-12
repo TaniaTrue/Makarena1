@@ -8,6 +8,10 @@ namespace Makarena
 {
     class Program
     {
+        public Program()
+        {
+                
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Makarena?");
