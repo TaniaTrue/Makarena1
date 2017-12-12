@@ -10,6 +10,7 @@ namespace Makarena
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Makarena?");
         }
     }
 }
