@@ -12,6 +12,10 @@ namespace Makarena
         {
                 
         }
+        public int[] Arr(int [] arr)
+        {
+            return arr;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Makarena?");
