@@ -12,7 +12,9 @@ namespace Makarena
         {
                 
         }
-        public int[] Arr(int [] arr)
+
+
+        public int[] Arr(int[] arr)
         {
             return arr;
         }
